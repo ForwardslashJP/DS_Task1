@@ -1,1 +1,1 @@
-Here i do classification of iris data set using Python
+Here i do classification of Iris Flower data set using Python
